@@ -13,6 +13,6 @@ El proyecto consiste en los siguientes pasos:
 ## Requisitos
 
 - Cuenta de AWS con acceso a S3, AWS Glue, y IAM.
-- Python 3.x instalado.
-- Biblioteca `requests` de Python para la descarga de datos.
+- Python 3.12.
+- Biblioteca `requests,os,boto3,json` de Python para la descarga de datos.
 - AWS CLI configurado con las credenciales adecuadas.
